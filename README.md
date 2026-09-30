@@ -1,9 +1,16 @@
 # Personal Task Manager
 
-Project Code: WST21-PM-2026-SF  
-Student Name: Kate Belandres
-Course & Year: BSIT - 2nd Year  
-Database Used: SQLite  
+## Project Code
+WST21-PM-2026-SF 
+
+## Student Name
+BELANDRES, KATE A.    
+
+## Course & Year
+BSIT - 2nd Year  
+
+## Database Used
+SQLite  
 
 ## Features
 - Add Task
